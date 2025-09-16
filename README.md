@@ -21,7 +21,9 @@ A Flutter Ebook Comics Reader Project is a mobile application that enables users
 - Paste the files of the project into new setup just by coping.
 
 # Screencast
-Uploading Ebook Comics Reader Project.mp4…
+https://github.com/user-attachments/assets/85245a07-2702-4793-9930-f04acd34ae85
+
+
 
 
 
